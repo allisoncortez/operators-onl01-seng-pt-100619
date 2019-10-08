@@ -14,7 +14,7 @@ end
 
 
 def not_safe?(speed)
-  safe =
+ # safe =""
 	
 end
 	
