@@ -7,7 +7,6 @@ def unsafe?(speed)
  else
    return false
  end
- safe
 end
 
 # age = 1
